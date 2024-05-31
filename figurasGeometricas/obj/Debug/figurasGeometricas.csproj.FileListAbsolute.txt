@@ -1,0 +1,5 @@
+C:\Users\L13Yoga\source\repos\figurasGeometricas\obj\Debug\figurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\L13Yoga\source\repos\figurasGeometricas\obj\Debug\figurasGeometricas.Form1.resources
+C:\Users\L13Yoga\source\repos\figurasGeometricas\obj\Debug\figurasGeometricas.Properties.Resources.resources
+C:\Users\L13Yoga\source\repos\figurasGeometricas\obj\Debug\figurasGeometricas.csproj.GenerateResource.cache
+C:\Users\L13Yoga\source\repos\figurasGeometricas\obj\Debug\figurasGeometricas.csproj.CoreCompileInputs.cache
